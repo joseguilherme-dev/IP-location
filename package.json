@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://joseguilherme-dev.github.io/IP-location",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
