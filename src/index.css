@@ -17,6 +17,7 @@ body {
 }
 
 .color-complementary {color: var(--theme_complementary)}
+.color-third{color: var(--third)}
 
 .row {
   position: relative;
@@ -36,6 +37,30 @@ body {
 }
 
 .input-icon {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  top: 0;
+  width: auto !important;
+  top: 50%;
+  left: 50%;
+  width: 40px;
+  transform: translate(-50%, -50%);
+}
+
+.search-icon-group {
+  position: absolute;
+  background-color: var(--second);
+  height: 100%;
+  width: 80px;
+  right: 0;
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  display: flex;
+}
+
+.search-icon {
   position: relative;
   right: 0;
   bottom: 0;
