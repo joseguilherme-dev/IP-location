@@ -12,4 +12,4 @@ Enter someone's IP and locate them.
 
 The website is running live right here:
 
-[joseguilherme-dev.github.io/IP-location/](joseguilherme-dev.github.io/IP-location/)
+[nova-script.github.io/IP-location/](nova-script.github.io/IP-location/)
